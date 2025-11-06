@@ -1,1 +1,3 @@
 * Asked what words to add for the pyproject.toml keywords section.
+* Asked ChatGPT about the utils functions to understand how the functions in utils work.
+* Asked what aspect of utils functions can I test (assert).
