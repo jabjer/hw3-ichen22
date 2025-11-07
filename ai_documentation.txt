@@ -1,3 +1,8 @@
 * Asked what words to add for the pyproject.toml keywords section.
 * Asked ChatGPT about the utils functions to understand how the functions in utils work.
 * Asked what aspect of utils functions can I test (assert).
+* Help fixing toc/myst error when making html:
+"⛔️ myst.yml 'toc' must be an array (at myst.yml#config.project)
+⛔️ _toc.yml Table of Contents (ToC) file did not pass validation:
+ - The toc.format must be jb-book or jb-article
+ - An implicit ToC will be used instead"

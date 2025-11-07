@@ -7,7 +7,10 @@ project:
   # keywords: []
   authors: ["I Gy Chen"]
   github: https://github.com/UCB-stat-159-f25/hw3-ichen22
-  toc: _toc.yml
+  toc:
+    - file: index.md
+    - file: LOSC_Event_tutorial.ipynb
+      title: "Main Notebook"
   exclude:
     - README.md
     - hw03_description.md

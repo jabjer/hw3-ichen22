@@ -1,5 +1,0 @@
-format: myst
-root: index
-entries:
-  - file: LOSC_Event_tutorial.ipynb
-    title: "Main Notebook"
