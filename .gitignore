@@ -1,2 +1,9 @@
 # MyST build outputs
 _build
+.myst/
+ligotools.egg-info/
+dist/
+build/
+
+figures/
+audio/
