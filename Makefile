@@ -1,4 +1,4 @@
-ENV_NAME ?= ligo
+ENV_NAME ?= ligo-peer
 ENV_FILE ?= environment.yml
 
 .PHONY: env html clean
