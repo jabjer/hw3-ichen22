@@ -4,6 +4,3 @@ _build
 ligotools.egg-info/
 dist/
 build/
-
-figures/
-audio/
